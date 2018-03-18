@@ -1,0 +1,5 @@
+@mixin width-wrapper($width) {
+  max-width: $width;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
