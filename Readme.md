@@ -36,7 +36,17 @@ git clone SSH-адрес_вашего_форка
 
 Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
 
-#### 3. Начинайте обучение!
+#### 3. Установите все зависимости
+```
+npm i
+```
+
+#### 4. Запустить виртуальный сервер
+```
+npm run start
+```
+
+#### 5. Начинайте обучение!
 
 [travis-image]: https://travis-ci.org/htmlacademy-adaptive/597453-cat-energy.svg?branch=master
 [travis-url]: https://travis-ci.org/htmlacademy-adaptive/597453-cat-energy
